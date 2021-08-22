@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dzの神奇小窝</title>
+  
+  <subtitle>篝之雾枝一生推</subtitle>
+  <link href="http://www.ecy.pink/atom.xml" rel="self"/>
+  
+  <link href="http://www.ecy.pink/"/>
+  <updated>2021-08-22T06:57:07.047Z</updated>
+  <id>http://www.ecy.pink/</id>
+  
+  <author>
+    <name>OrzMiku</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎来到Dzの神奇小窝</title>
+    <link href="http://www.ecy.pink/2021/08/22/welcome/"/>
+    <id>http://www.ecy.pink/2021/08/22/welcome/</id>
+    <published>2021-08-21T18:40:00.000Z</published>
+    <updated>2021-08-22T06:57:07.047Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一次弄Hexo博客，感觉还行，挺好上手的</p><span id="more"></span><div class="tag-plugin image"><div class="image-bg" style="background:white;"><img src="https://one.ecy.pink/OneDrive/小豆泥.jpeg" alt="小豆泥"/><a class="image-download blur" style="opacity:0" href="https://one.ecy.pink/OneDrive/小豆泥.jpeg"><svg class="icon" style="width: 1em; height: 1em;vertical-align: middle;fill: currentColor;overflow: hidden;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3734"><path d="M561.00682908 685.55838913a111.03077546 111.03077546 0 0 1-106.8895062 0L256.23182837 487.72885783a55.96309219 55.96309219 0 0 1 79.13181253-79.18777574L450.70357448 523.88101491V181.55477937a55.96309219 55.96309219 0 0 1 111.92618438 0v344.06109173l117.07478902-117.07478901a55.96309219 55.96309219 0 0 1 79.13181252 79.18777574zM282.81429711 797.1487951h447.70473912a55.96309219 55.96309219 0 0 1 0 111.92618438H282.81429711a55.96309219 55.96309219 0 0 1 0-111.92618438z" p-id="3735"></path></svg></a></div><div class="image-meta"><span class="image-caption center">小豆泥</span></div></div><p>之前的typecho博客，哈哈哈，我是伞兵，写了那么久，备份的时候没备份数据库，没了。</p><p>挺难受的其实，那个博客写了好几年了。</p><p>既然选择了Hexo，那就把Hexo一直用下去吧。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;第一次弄Hexo博客，感觉还行，挺好上手的&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="http://www.ecy.pink/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="Hello World" scheme="http://www.ecy.pink/tags/Hello-World/"/>
+    
+  </entry>
+  
+</feed>

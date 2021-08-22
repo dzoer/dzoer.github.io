@@ -740,7 +740,7 @@ div.toast {
   -ms-user-select: none;
   -webkit-user-select: none;
   user-select: none;
-  box-shadow: 0 4px 8px 0px rgba(0,0,0,0.1);
+  box-shadow: 0 0 15px #d3d3d3;
 }
 .md .article-footer {
   margin-top: 4rem;
@@ -1010,7 +1010,7 @@ nav.cap a:hover {
 }
 nav.cap a.active {
   background: var(--card);
-  box-shadow: 0 0 2px 0px rgba(0,0,0,0.04), 0 0 8px 0px rgba(0,0,0,0.04);
+  box-shadow: 0 0 2px 0px rgba(0,0,0,0.12), 0 0 8px 0px rgba(0,0,0,0.12);
 }
 nav.cap a.active:after {
   content: '';
@@ -1864,7 +1864,7 @@ details.folding[child=codeblock]>div.body .highlight .code:before {
 }
 .users-wrap .user-card .card-link:hover img {
   transform: scale(1.2) rotate(8deg);
-  box-shadow: 0 2px 4px 0px rgba(0,0,0,0.1), 0 4px 8px 0px rgba(0,0,0,0.1), 0 8px 16px 0px rgba(0,0,0,0.1);
+  box-shadow: 0 0 8px #d3d3d3;
 }
 .tag-plugin.ghcard {
   line-height: 0;
@@ -1988,7 +1988,7 @@ details.folding[child=codeblock]>div.body .highlight .code:before {
   min-width: 280px;
   max-width: 100%;
   width: 320px;
-  box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1);
+  box-shadow: 0 0 15px #d3d3d3;
   border-radius: 6px;
   transition: box-shadow 0.2s ease-out, transform 0.2s ease-out;
   -moz-transition: box-shadow 0.2s ease-out, transform 0.2s ease-out;
@@ -2001,7 +2001,7 @@ details.folding[child=codeblock]>div.body .highlight .code:before {
   }
 }
 .md .link-card:hover {
-  box-shadow: 0 2px 4px 0px rgba(0,0,0,0.1), 0 4px 8px 0px rgba(0,0,0,0.1), 0 8px 16px 0px rgba(0,0,0,0.1);
+  box-shadow: 0 0 8px #d3d3d3;
   transform: translateY(-1px);
 }
 .md .link-card div.left,
@@ -2225,7 +2225,7 @@ details.folding[child=codeblock]>div.body .highlight .code:before {
   -o-transition: box-shadow 0.2s ease-out;
 }
 .sites-wrap .site-card .card-link:hover >img {
-  box-shadow: 0 4px 8px 0px rgba(0,0,0,0.1), 0 2px 4px 0px rgba(0,0,0,0.1), 0 4px 8px 0px rgba(0,0,0,0.1), 0 8px 16px 0px rgba(0,0,0,0.1);
+  box-shadow: 0 0 15px #d3d3d3, 0 0 8px #d3d3d3;
 }
 .tag-plugin.tabs {
   position: relative;
@@ -2311,7 +2311,7 @@ details.folding[child=codeblock]>div.body .highlight .code:before {
   cursor: default;
   color: var(--text-p1);
   background: var(--card);
-  box-shadow: 0 0 2px 0px rgba(0,0,0,0.04), 0 0 8px 0px rgba(0,0,0,0.04);
+  box-shadow: 0 0 2px 0px rgba(0,0,0,0.12), 0 0 8px 0px rgba(0,0,0,0.12);
 }
 .tag-plugin.tabs ul.nav-tabs li.tab.active a:after {
   content: '';
@@ -2418,7 +2418,7 @@ details.folding[child=codeblock]>div.body .highlight .code:before {
   border-top-left-radius: 2px;
   padding: 0.5rem 1rem;
   margin-top: 4px;
-  box-shadow: 0 1px 4px 0px rgba(0,0,0,0.02), 0 2px 8px 0px rgba(0,0,0,0.02);
+  box-shadow: 0 1px 4px 0px rgba(0,0,0,0.08), 0 2px 8px 0px rgba(0,0,0,0.08);
 }
 .tag-plugin.timeline .body:empty {
   display: none;
@@ -2757,7 +2757,7 @@ nav.menu a.nav-item.active,
 nav.menu a.nav-item:hover {
   color: var(--text-p1);
   background: var(--card);
-  box-shadow: 0 0 2px 0px rgba(0,0,0,0.04), 0 0 8px 0px rgba(0,0,0,0.04);
+  box-shadow: 0 0 2px 0px rgba(0,0,0,0.12), 0 0 8px 0px rgba(0,0,0,0.12);
 }
 .l_left .menu a.nav-item {
   flex-grow: 1;
@@ -3162,7 +3162,7 @@ article.md.error-page a#back {
     margin: 0;
     left: 0;
     background: var(--site-bg);
-    box-shadow: 0 2px 4px 0px rgba(0,0,0,0.1), 0 4px 8px 0px rgba(0,0,0,0.1), 0 8px 16px 0px rgba(0,0,0,0.1);
+    box-shadow: 0 0 8px #d3d3d3;
   }
   .l_body .l_main {
     max-width: 100%;
@@ -3481,7 +3481,7 @@ article.md blockquote {
   border-left: 6px solid #1bcdfc;
   border-radius: 6px;
   color: var(--text-p2);
-  box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1);
+  box-shadow: 0 0 15px #d3d3d3;
 }
 article.md img {
   border-radius: 4px;
@@ -3573,4 +3573,8 @@ div.swiper-slide img {
 .swiper-button-next:hover {
   background: #fff !important;
   --swiper-theme-color: #ff5722 !important;
+}
+.cmt-body.beaudar {
+  margin: 0 -4px;
+  width: calc(100% + 8px);
 }
