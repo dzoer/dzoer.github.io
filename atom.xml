@@ -6,7 +6,7 @@
   <link href="http://www.ecy.pink/atom.xml" rel="self"/>
   
   <link href="http://www.ecy.pink/"/>
-  <updated>2021-08-23T10:14:55.957Z</updated>
+  <updated>2021-08-23T10:19:39.864Z</updated>
   <id>http://www.ecy.pink/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.ecy.pink/2021/08/23/onlineTool1ToA/"/>
     <id>http://www.ecy.pink/2021/08/23/onlineTool1ToA/</id>
     <published>2021-08-23T10:01:39.000Z</published>
-    <updated>2021-08-23T10:14:55.957Z</updated>
+    <updated>2021-08-23T10:19:39.864Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>出了个手机使用阿里秒传的教程，有坛友反应115不能在手机上转存，所以我连夜制作了这个工具<br>目前是第一版，猴子打印机产物，比较粗糙，可能会有bug</p></blockquote><span id="more"></span><hr><p>手机搭配油猴，可以实现转存115sha1<br><a href="https://pan.yuankongjian.com/d/8161">[教程]安卓手机使用阿里秒传码</a></p><hr><h3 id="用前须知"><a href="#用前须知" class="headerlink" title="用前须知"></a>用前须知</h3><ol><li>[color=red]115的链接并不是100%能存到阿里云盘，能存只是因为这个文件有人上传过阿里云了，然后又恰好sha1和文件大小匹配而已[/color]</li><li>输入115://的链接，一行一个，<strong>格式不对的那一行会报错，导入时不影响其他行</strong></li><li>aliyunpan://的链接不会被转化，也不会被报错，所以不小心点了两下转化也没关系</li></ol><h3 id="网址"><a href="#网址" class="headerlink" title="网址"></a>网址</h3><blockquote><p>你可以通过下面两个链接访问，两个网站上一样的</p></blockquote><p><a href="http://115.tool.ecy.pink/">http://115.tool.ecy.pink</a><br><a href="http://1toa.tool.ecy.pink/">http://1toa.tool.ecy.pink</a></p><h3 id="开源地址"><a href="#开源地址" class="headerlink" title="开源地址"></a>开源地址</h3><p>第一次用Github，不太会用<br><a href="https://github.com/dzoer/115sha1ToAliyunpan">https://github.com/dzoer/115sha1ToAliyunpan</a></p>]]></content>
     
